@@ -21,7 +21,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for Android developers, AR enthusiasts, and hobbyists who want to learn to build practical, real-life, immersive, and beautiful AR projects using Google's ARCore. Basic programming knowledge is assumed and all you need is a computer that is capable of running Unity3D.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
+#### Minimum Hardware Requirements
 
 For successful completion of this course, students will require the computer systems with at least the following:
 
@@ -31,7 +31,7 @@ Memory: 2 GB of RAM
 
 Storage: 4 GB of free hard drive space
 
-Recommended Hardware Requirements
+#### Recommended Hardware Requirements
 
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 
@@ -41,7 +41,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 ● Storage: 10 GB of free hard drive space
 
-Software Requirements
+#### Software Requirements
 
 Unity3D  2017.3 or later. You can download from here  :  https://unity3d.com/
 
