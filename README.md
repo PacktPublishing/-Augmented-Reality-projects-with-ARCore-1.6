@@ -1,45 +1,57 @@
-# Hands-On Web Application Development with Laravel [Video]
-This is the code repository for [Hands-On Web Application Development with Laravel [Video]](https://www.packtpub.com/web-development/hands-web-application-development-laravel-video?utm_source=github&utm_medium=repository&utm_campaign=9781789808209), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Microservices with Spring Boot 2.0 [Video]
+This is the code repository for [Hands-On Microservices with Spring Boot 2.0 [Video]](https://www.packtpub.com/application-development/augmented-reality-projects-arcore-16-video?utm_source=github&utm_medium=repository&utm_campaign=9781789618136), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-This course is designed to give you, as a PHP developer, the confidence to get ahead with Laravel and write an entire application securely from the start. High-level overviews and concrete examples form part of this course; you'll also master some higher-level features and make them all work together.
+A practical course guiding you to build amazing and immersive Augmented Reality experiences. Take advantages of the features of ARCore 1.6 and Unity to create 6 unique and exciting projects that will help take your AR development skills to the next level
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Install and configure a Laravel application in simple steps by understanding its framework architecture and routing mechanism 
-<LI>Query SQL and NoSQL databases 
-<LI>Set up different templates to return different response content types 
-<LI>Code a CRUD controller and use Laravel to understand errors 
-<LI>Use mail, queues and<SPAN style="BACKGROUND-COLOR: transparent"> other special services</SPAN> 
-<LI>Secure Laravel applications and unit test them 
-<LI>Code efficiently, use caches, and optimize Laravel applications </LI></UL></DIV>
+<LI>Explore Microservices-based architecture 
+<LI>Use Domain-Driven Design for designing your Microservices 
+<LI>Develop and design RESTful web services with Spring Boot&nbsp; 
+<LI>Develop microservices with Spring Boot and Spring Cloud 
+<LI>Implement exception handling, validation, HATEOAS, and filtering for RESTful web services 
+<LI>Explore Bounded Context to deal with large models and teams 
+<LI>Perform integration testing with Spring MVC 
+<LI>Use Spring Boot Actuator to expose operational information about the application running </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This video is for web developers who want to develop web apps using the Laravel framework. Prior knowledge of most basic development tools such as Git (GitHub) and of PHP is assumed.
+This course is for Android developers, AR enthusiasts, and hobbyists who want to learn to build practical, real-life, immersive, and beautiful AR projects using Google's ARCore. Basic programming knowledge is assumed and all you need is a computer that is capable of running Unity3D.
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Minimum Hardware Requirements
 
 For successful completion of this course, students will require the computer systems with at least the following:
 
-PHP 7.2
+OS: Windows 7 or later and macOS 10.11+
+
+Memory: 2 GB of RAM
+
+Storage: 4 GB of free hard drive space
+
+Recommended Hardware Requirements
+
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+
+● OS: Windows 7 or later and macOS 10.11+
+
+● Memory: 6 GB of RAM
+
+● Storage: 10 GB of free hard drive space
 
 Software Requirements
 
-Windows/Mac/Linux/Unix
+Unity3D  2017.3 or later. You can download from here  :  https://unity3d.com/
 
-Firefox/Chrome
+ARCore  Unity Package. You can download from here : https://developers.google.com/ar/develop/unity/quickstart-android
 
-PHPStorm
-
-Links:
-https://www.jetbrains.com/phpstorm/
+ARCore enabled device.You can get the list of ARCore supported mobiles from this link https://developers.google.com/ar/discover/supported-devices
 
 ## Related Products
-* [Hands-On Application Development with React and Bootstrap [Video]](https://www.packtpub.com/web-development/hands-application-development-react-and-bootstrap-video?utm_source=github&utm_medium=repository&utm_campaign=9781789531381)
-
-* [Hands-on Web Application Development with jQuery [Video]](https://www.packtpub.com/web-development/hands-web-application-development-jquery-video?utm_source=github&utm_medium=repository&utm_campaign=9781789343809)
+* [Augmented Reality projects with ARCore 1.6 [Video]](https://www.packtpub.com/application-development/hands-application-development-spring-boot-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781789137712)
 
 * [Hands-on Application Development with Spring Boot 2.0 [Video]](https://www.packtpub.com/application-development/hands-application-development-spring-boot-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781789137712)
+
+* [Hands-On Microservices with Spring Boot 2.0 [Video]](https://www.packtpub.com/application-development/hands-microservices-spring-boot-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991551)
